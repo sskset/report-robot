@@ -18,13 +18,12 @@ image_path = os.path.abspath(verify_code_file_name)
 image = cv2.imread(image_path, 0)
 gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 
-is_threshold = True
-
-if is_threshold:
-    gray = cv2.threshold(gray, 0, 255, cv2.THRESH_BINARY | cv2.THRESH_OTSU)[1]
+gray = cv2.threshold(gray, 0, 255, cv2.THRESH_BINARY | cv2.THRESH_OTSU)[1]
 
 temp_vc_file_name = "{}.png".format(os.getpid())
 cv2.imwrite(temp_vc_file_name, gray)
+
+print(temp_vc_file_name)
 
 text = pytesseract.image_to_string(Image.open(temp_vc_file_name))
 print(text)
