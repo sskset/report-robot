@@ -21,3 +21,7 @@ class VerifyCode:
 
         text = pytesseract.image_to_string(img, lang='eng')
         return ''.join(x for x in text if x.isalpha())
+
+    @classmethod
+    def denoise_iamge(cls, image_path):
+        pass

@@ -9,7 +9,7 @@ while not is_ready_to_login:
     browser = webdriver.Chrome()
     browser.set_window_size(572, 400)
     browser.get("http://grwf.goldwindaustralia.com/Default.aspx")
-    time.sleep(1)
+    # time.sleep(1)
 
     username_elem = browser.find_element_by_id('TBusername')
     username_elem.send_keys('Xiaoming Zhao')
@@ -48,10 +48,12 @@ while not is_ready_to_login:
     code_elem.send_keys(code)
 
     if len(code) == 4:
+        login_button_elem = browser.find_element_by_xpath(
+            '//*[@id="form1"]/table/tbody/tr[2]/td[2]/table/tbody/tr[2]/td/table/tbody/tr/td[3]/table/tbody/tr/td[2]')
+        print(login_button_elem.text)
+        login_button_elem.click()
+
         is_ready_to_login = True
 
-        form_elem = browser.find_element_by_id('form1')
-        # form_elem.submit()
-        time.sleep(5)
     else:
         browser.close()

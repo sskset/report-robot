@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90a00d03-9a27-45a8-b9f7-748e268e8d96" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/unittests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unittests/test_verify_code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/verify_code.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extract_verify_code.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/code.gif" beforeDir="false" afterPath="$PROJECT_DIR$/images/code.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/login_page.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/login_page.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/login.py" beforeDir="false" afterPath="$PROJECT_DIR$/login.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/verify_code.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirement.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirement.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/verify_code.py" beforeDir="false" afterPath="$PROJECT_DIR$/verify_code.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="verify_code.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="verify_code.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/verify_code.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="23" />
+            <state relative-caret-position="381">
+              <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
               </folding>
@@ -31,16 +29,45 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="login.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="0387ddda-3561-11e8-a512-20c9d0463dc3.gif" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/0387ddda-3561-11e8-a512-20c9d0463dc3.gif">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="064e9324-3561-11e8-92ea-20c9d0463dc3.gif" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/064e9324-3561-11e8-92ea-20c9d0463dc3.gif">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="requirement.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/requirement.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="08f35042-3561-11e8-bdc1-20c9d0463dc3.gif" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/08f35042-3561-11e8-bdc1-20c9d0463dc3.gif">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="login.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/login.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="212">
-              <caret line="31" column="35" lean-forward="true" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
+            <state relative-caret-position="490">
+              <caret line="55" selection-start-line="55" selection-end-line="55" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login_page.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/login_page.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -64,8 +91,8 @@
         <option value="$PROJECT_DIR$/extract_verify_code.py" />
         <option value="$PROJECT_DIR$/unittests/verify_code_tests.py" />
         <option value="$PROJECT_DIR$/unittests/test_verify_code.py" />
-        <option value="$PROJECT_DIR$/login.py" />
         <option value="$PROJECT_DIR$/verify_code.py" />
+        <option value="$PROJECT_DIR$/login.py" />
       </list>
     </option>
   </component>
@@ -89,16 +116,6 @@
             <path>
               <item name="report-robot" type="b2602c69:ProjectViewProjectNode" />
               <item name="report-robot" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="report-robot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="report-robot" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="report-robot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="report-robot" type="462c0819:PsiDirectoryNode" />
-              <item name="unittests" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="report-robot" type="b2602c69:ProjectViewProjectNode" />
@@ -256,11 +273,11 @@
     <frame x="0" y="23" width="1920" height="1104" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1734375" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1734375" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32815534" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4854369" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33300972" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.3296355" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -414,13 +431,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/requirement.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/verify_code.gif">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -435,12 +445,6 @@
     <entry file="file://$PROJECT_DIR$/login_page.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/login_page.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/code.gif">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/unittests/test_verify_code.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -451,9 +455,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/064e9324-3561-11e8-92ea-20c9d0463dc3.gif">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/0bc59f0a-3561-11e8-be59-20c9d0463dc3.gif">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -463,22 +464,38 @@
     <entry file="file://$PROJECT_DIR$/images/0387ddda-3561-11e8-a512-20c9d0463dc3.gif">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/login.py">
+    <entry file="file://$PROJECT_DIR$/images/064e9324-3561-11e8-92ea-20c9d0463dc3.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirement.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="31" column="35" lean-forward="true" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/login_page.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/code.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/verify_code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
           <folding>
-            <element signature="e#0#30#0" expanded="true" />
+            <element signature="e#0#21#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/verify_code.py">
+    <entry file="file://$PROJECT_DIR$/login.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="23" />
+        <state relative-caret-position="490">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
           <folding>
-            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#0#30#0" expanded="true" />
           </folding>
         </state>
       </provider>
